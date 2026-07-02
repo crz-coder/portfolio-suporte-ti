@@ -20,7 +20,7 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 - Configuração de IP estático no Windows Server (`192.168.1.1/24`).
 
 ### 2. Promoção do Servidor a Controlador de Domínio
-- Instalação das funções do AD DS e DNS.
+- Instalação das funções do AD DS, DHCP e DNS.
 - Configuração do novo domínio (ex: `empresa.local`).
 
 ### 3. Configuração do Servidor DHCP
@@ -45,4 +45,15 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 - Documentado um profundo entendimento sobre DHCP, resolução DNS interna e autenticação via protocolo Kerberos.
 
 ## 📸 Evidências (Screenshots)
+
+### 1. Configuração do Ambiente Virtual
+<img width="1917" height="1078" alt="Captura de tela 2026-07-02 153817" src="https://github.com/user-attachments/assets/3f7fc026-5490-461e-af31-035084b437ff" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1c6c7574-7424-4284-b185-acb87665d5ef" />
+
+### 2. Promoção do Servidor a Controlador de Domínio
+<img width="1023" height="770" alt="Captura de tela 2026-07-02 164243" src="https://github.com/user-attachments/assets/63ce5ed3-de91-40c3-adc0-6a794ad0b940" />
+
+
+
+
 
