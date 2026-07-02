@@ -12,7 +12,7 @@ A automação reduz falhas humanas, garante padronização e economiza tempo pre
 
 ## 🚀 Os Scripts (O que foi feito)
 
-*(Observação: Neste repositório você incluirá os arquivos `.ps1` e `.sh` futuramente. Aqui documentamos o que eles fazem.)*
+*(Observação: Este repositório incluirá os arquivos `.ps1` e `.sh` futuramente. Aqui documentei o que eles fazem.)*
 
 ### 1. `SystemHealthCheck.ps1`
 **Situação:** Necessidade de verificar o status de várias máquinas de usuários de forma rápida, em busca de problemas de lentidão.
@@ -31,4 +31,3 @@ A automação reduz falhas humanas, garante padronização e economiza tempo pre
 **Ação:** Um script simples em Bash que mostra o "Load Average", uso de disco em partições vitais e identifica se serviços cruciais (como apache ou sshd) estão ativos.
 
 ## 📈 Resultados
-Os scripts demonstram habilidades com lógica de programação aplicadas diretamente aos problemas diários do suporte técnico, elevando o perfil de Nível 1 para um analista capaz de escalar soluções.

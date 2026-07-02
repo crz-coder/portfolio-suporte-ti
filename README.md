@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Cristofer!
 ## Técnico de Suporte de TI
 
 Profissional com formação em Redes, Sistemas Operacionais, Infraestrutura e Segurança de TI. Apaixonado por resolver problemas e documentar soluções. Busco minha primeira oportunidade na área de suporte, trazendo um forte conhecimento teórico fundamentado por laboratórios práticos.
@@ -17,7 +17,7 @@ Profissional com formação em Redes, Sistemas Operacionais, Infraestrutura e Se
 
 ### Infraestrutura
 - Active Directory, GPOs
-- Virtualização (VirtualBox, Hyper-V)
+- Virtualização (VirtualBox)
 - Cloud Computing (IaaS, PaaS, SaaS)
 
 ### Segurança
@@ -48,5 +48,5 @@ Profissional com formação em Redes, Sistemas Operacionais, Infraestrutura e Se
 *Consulte a seção de [Certificações](./certificacoes/) para mais detalhes.*
 
 ## 📫 Contato
-- **LinkedIn:** [Insira o link do seu LinkedIn]
-- **Email:** [Insira seu email]
+- **LinkedIn:** https://www.linkedin.com/in/cristofer-de-oliveira-martins-679492304/
+- **Email:** cristoferom27@gmail.com

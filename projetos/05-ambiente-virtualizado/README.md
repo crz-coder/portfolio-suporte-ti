@@ -29,10 +29,6 @@ Muitos ambientes corporativos operam com desktops Windows para os usuários, mas
 - Demonstração da montagem de um disco adicional recém adicionado ao Linux.
 - Exploração do arquivo `/etc/fstab` para montagem persistente (garantindo que os diretórios compartilhados não caiam após um reboot).
 
-## 📈 Resultados
-- O ambiente provou a viabilidade técnica de usar ferramentas unificadas de suporte. 
-- O projeto comprova familiaridade avançada com terminal Linux e console do Windows, competência crucial na governança de infraestrutura moderna em cloud ou datacenters físicos.
-
 ## 📸 Evidências (Screenshots)
 *(Insira os prints aqui)*
 - `[Screenshot conectando via SSH do Windows no Linux]`

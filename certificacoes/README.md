@@ -4,7 +4,9 @@ A área de Suporte de TI requer constante atualização. Abaixo estão alguns do
 
 ## 🎯 Status Atual (Estudos Concluídos)
 Os cursos e conteúdos a seguir já foram absorvidos e resultaram nos projetos práticos deste portfólio:
+
 - ✔️ **Sistemas Operacionais:** Administração Profunda de Windows e Linux (Manipulação de Pacotes, File Systems, Processos, Permissões).
 - ✔️ **Redes de Computadores:** Fundamentos Sólidos (OSI, TCP/IP, Roteamento BGP/OSPF, Sub-redes, DHCP/DNS, Camada de Enlace/Física).
 - ✔️ **Infraestrutura:** Hardware Server-side, Cloud (Modelos de Serviço), Contratos/Vendors, Change Management, Active Directory.
 - ✔️ **Segurança de TI:** Criptografia Simétrica/Assimétrica, AAA, Hardening de Rede e Endpoints, Resposta a Incidentes.
+- ✔️ **Algoritmo e Lógica de Programação** Estrutuas de repetição, estruturas condicionais e introdução às principais linguagens: Java, C, C++ e C#.

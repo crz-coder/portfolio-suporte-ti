@@ -36,7 +36,3 @@ Para prestar um serviço de TI de qualidade, as solicitações dos usuários pre
 O sistema foi configurado com sucesso e documentou o fluxo exato que um ticket segue desde a criação até o encerramento. O projeto demonstrou não apenas a habilidade técnica de configurar um servidor web no Linux, mas também a competência em processos operacionais de TI.
 
 ## 📸 Evidências (Screenshots)
-*(Insira os prints aqui)*
-- `[Screenshot do painel de Agente do osTicket com os tickets em andamento]`
-- `[Screenshot da configuração dos SLAs]`
-- `[Screenshot do ciclo de vida de um ticket resolvido]`

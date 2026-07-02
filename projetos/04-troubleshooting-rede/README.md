@@ -35,4 +35,4 @@ Como técnico de suporte, grande parte do tempo é investido diagnosticando falh
 3. Análise das permissões Share (Compartilhamento) e NTFS no arquivo ou diretório de destino.
 
 ## 📈 Resultados
-Essa documentação comprova um conhecimento estruturado, saindo do modelo de "tentativa e erro" para um modelo de "diagnóstico e engenharia de rede". Mostra profundo entendimento sobre como os protocolos se comportam nas diversas camadas do Modelo OSI.
+

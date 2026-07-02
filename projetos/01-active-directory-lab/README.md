@@ -45,7 +45,4 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 - Documentado um profundo entendimento sobre DHCP, resolução DNS interna e autenticação via protocolo Kerberos.
 
 ## 📸 Evidências (Screenshots)
-*(Dica: Insira imagens aqui. Exemplo: print do Active Directory Users and Computers, print do Server Manager, print da máquina cliente logada no domínio, etc.)*
 
-- `[Screenshot da estrutura de OUs e Usuários no AD]`
-- `[Screenshot de uma GPO aplicada com sucesso na máquina cliente]`
