@@ -52,7 +52,10 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 
 ### 2. Promoção do Servidor a Controlador de Domínio
 <img width="1023" height="770" alt="Captura de tela 2026-07-02 164243" src="https://github.com/user-attachments/assets/63ce5ed3-de91-40c3-adc0-6a794ad0b940" />
+<img width="1023" height="771" alt="Captura de tela 2026-07-03 092023" src="https://github.com/user-attachments/assets/376dee84-0851-4c9a-973a-c9134293201b" />
 
+### 3. Configuração do Servidor DHCP
+<img width="1027" height="767" alt="Captura de tela 2026-07-03 094609" src="https://github.com/user-attachments/assets/9e3237d9-4b79-45c5-b80b-647752a99dcf" />
 
 
 
