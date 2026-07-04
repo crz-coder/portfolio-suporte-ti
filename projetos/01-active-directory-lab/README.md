@@ -47,15 +47,29 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 ## 📸 Evidências (Screenshots)
 
 ### 1. Configuração do Ambiente Virtual
+(Configuração das duas VMs para atuarem em uma rede interna, separando o laboratório da minha rede wi-fi pessoal.)
 <img width="1917" height="1078" alt="Captura de tela 2026-07-02 153817" src="https://github.com/user-attachments/assets/3f7fc026-5490-461e-af31-035084b437ff" />
+(Configuração de um endereço IP estático na VM com Windows Server e definição do endereço de loopback (127.0.0.1) como servidor DNS, permitindo que o próprio servidor resolva internamente as consultas do Active Directory.)
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1c6c7574-7424-4284-b185-acb87665d5ef" />
 
 ### 2. Promoção do Servidor a Controlador de Domínio
+(Implantação das funções AD DS, DNS Server e DHCP Server no Windows Server.)
 <img width="1023" height="770" alt="Captura de tela 2026-07-02 164243" src="https://github.com/user-attachments/assets/63ce5ed3-de91-40c3-adc0-6a794ad0b940" />
+(Promoção do servidor a Controlador de Domínio (Domain Controller), com a criação de uma nova floresta e de um domínio do Active Directory.)
 <img width="1023" height="771" alt="Captura de tela 2026-07-03 092023" src="https://github.com/user-attachments/assets/376dee84-0851-4c9a-973a-c9134293201b" />
 
 ### 3. Configuração do Servidor DHCP
+(Criação e configuração de um escopo DHCP para distribuição automática de endereços IP na rede do domínio.)
+(Nesta etapa, uma faixa de endereços IP pode ser reservada para dispositivos que necessitam de IP fixo, garantindo que o servidor DHCP distribua apenas os endereços destinados aos clientes da rede.)
 <img width="1027" height="767" alt="Captura de tela 2026-07-03 094609" src="https://github.com/user-attachments/assets/9e3237d9-4b79-45c5-b80b-647752a99dcf" />
+
+### 4. Estruturação do AD (OUs, Grupos e Usuários)
+(Criação de UOs para organizar os grupos e usuários com os seus respectivos setores.)
+<img width="1022" height="768" alt="Captura de tela 2026-07-04 135520" src="https://github.com/user-attachments/assets/5f4fa154-dd5b-4ffd-8837-f471cfeb2309" />
+(Criação de Grupos para organizar os usuários com suas respectivas funções.)
+<img width="1027" height="770" alt="Captura de tela 2026-07-04 133657" src="https://github.com/user-attachments/assets/fc468b3b-f8b8-47b9-9345-5cd9339c65b9" />
+
+### 5. Aplicação de GPOs (Group Policy Objects)
 
 
 
