@@ -89,7 +89,7 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 (Verificando a resposta da conexão do cliente com o servidor.)
 <img width="1023" height="762" alt="Captura de tela 2026-07-09 170621" src="https://github.com/user-attachments/assets/c5e8214f-07ab-4c03-873d-82ee2dccc82a" />
 
-(Teste logado com um Usuário da UO Financeiri tentando acessar o Painel de Controle.)
+(Teste logado com um Usuário da UO Financeiro tentando acessar o Painel de Controle.)
 <img width="1025" height="767" alt="Captura de tela 2026-07-09 172751" src="https://github.com/user-attachments/assets/4f3e599b-0f0b-4a19-b766-1fe85c877f78" />
 
 
