@@ -70,6 +70,17 @@ Muitas empresas dependem do Active Directory para gerenciar acessos de forma cen
 <img width="1027" height="770" alt="Captura de tela 2026-07-04 133657" src="https://github.com/user-attachments/assets/fc468b3b-f8b8-47b9-9345-5cd9339c65b9" />
 
 ### 5. Aplicação de GPOs (Group Policy Objects)
+(Configuração da segurança das senhas da empresa, alterando o período máximo de validade das senhas, exigindo maior complexidade na criação de senhas e alterando o comrpimento mínimo das senhas para 8 caracteres.) (Fizemos essas alterações no Default Domain Policy para abranger todos os usuários.)
+<img width="1025" height="768" alt="Captura de tela 2026-07-08 163800" src="https://github.com/user-attachments/assets/bdaefc66-5d9a-4dbe-9a84-c6cbdbbd94f1" />
+(Configuração da GPO para restringir o acesso de usuários de determinadas Unidades Organizacionais (UOs) a itens do Painel de Controle e outras configurações do sistema.) (Após a configuração, a GPO foi vinculada às UOs desejadas para que as restrições fossem aplicadas apenas aos usuários definidos.)
+<img width="1026" height="766" alt="Captura de tela 2026-07-08 165547" src="https://github.com/user-attachments/assets/a4411f8f-1cd1-4f7e-b978-29cc10504405" />
+(Configuração da GPO para montar automáticamente o disco com a pasta compartilhada do domínio.)
+<img width="1023" height="768" alt="Captura de tela 2026-07-09 135009" src="https://github.com/user-attachments/assets/3e314ab9-938a-47e4-9f64-29e8845ab964" />
+
+### 6. Ingresso da Máquina Cliente no Domínio
+
+
+
 
 
 
