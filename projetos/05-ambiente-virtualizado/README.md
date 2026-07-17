@@ -30,6 +30,3 @@ Muitos ambientes corporativos operam com desktops Windows para os usuários, mas
 - Exploração do arquivo `/etc/fstab` para montagem persistente (garantindo que os diretórios compartilhados não caiam após um reboot).
 
 ## 📸 Evidências (Screenshots)
-*(Insira os prints aqui)*
-- `[Screenshot conectando via SSH do Windows no Linux]`
-- `[Screenshot da pasta mapeada via Samba aparecendo no "Meu Computador" do Windows]`
