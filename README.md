@@ -35,10 +35,6 @@ Profissional com formação em Redes, Sistemas Operacionais, Infraestrutura e Se
 | [Troubleshooting Rede](./projetos/04-troubleshooting-rede/) | Guias de resolução de problemas de rede | Wireshark, CLI networking |
 | [Ambiente Multi-OS](./projetos/05-ambiente-virtualizado/) | Lab virtualizado multi-plataforma | VirtualBox, SSH, RDP, SMB |
 
-## 📚 Base de Conhecimento (Knowledge Base)
-- [Procedimentos Operacionais Padrão (SOPs)](./knowledge-base/sops/)
-- [Guias de Troubleshooting](./knowledge-base/guias-troubleshooting/)
-
 ## 🎓 Formação e Cursos
 - Fundamentos de Segurança de TI
 - Redes de Computadores (Modelo OSI, TCP/IP, Roteamento, Camadas Físicas)
